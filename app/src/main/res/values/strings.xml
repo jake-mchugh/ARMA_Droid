@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Test</string>
+    <string name="app_name">Biosite ARMA</string>
+    <string name="arma_logo">ARMA Logo</string>
+    <string name="biosite_security_park_madden_london"><![CDATA[Biosite Security & Park Madden London]]></string>
 </resources>
